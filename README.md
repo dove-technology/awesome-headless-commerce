@@ -68,6 +68,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Talon.One](https://www.talon.one) &mdash; Run flexible promotion marketing campaigns that perform, without wasting development time and marketing money.
 - [CartHook](https://carthook.com) &mdash; Add post-purchase upsells and grow your average order value.
 - [Lightrail](https://www.lightrail.com) &mdash; Promos, gift cards, loyalty. One API.
+- [dovetech](https://dovetech.com) &mdash; Full capablity, lightning-fast promotion and loyalty engine for tech teams, application developers + service providers.
 
 ## Search
 
